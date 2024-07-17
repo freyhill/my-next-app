@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 修改dev启动端口
+
+```
+npx next dev -p 4000
+```
+
 ## Getting Started
 
 First, run the development server:
